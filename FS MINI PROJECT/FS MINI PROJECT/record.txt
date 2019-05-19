@@ -1,4 +1,0 @@
-0|11|vijaya|34|f|spine
-1|30|shanthi|44|f|heart
-2|100|alia|18|f|heart
-3|200|disha|33|f|spine
